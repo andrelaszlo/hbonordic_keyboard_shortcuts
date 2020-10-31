@@ -8,6 +8,8 @@ addons.mozilla.com (AMO): https://addons.mozilla.org/en-US/firefox/addon/hbo-nor
 
 Chrome Web Store: https://chrome.google.com/webstore/detail/hbo-nordic-keyboard-short/mlpdnnafcflhiocbcbneodhbdbinpima
 
+See [releases](https://github.com/andrelaszlo/hbonordic_keyboard_shortcuts/releases) for packaged versions available for manual installation.
+
 
 ## Shortcuts
 
