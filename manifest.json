@@ -2,6 +2,12 @@
   "manifest_version": 2,
   "name": "HBO Nordic Keyboard Shortcuts",
   "version": "1.0",
+  "author": "André Laszlo",
+  "homepage_url": "https://github.com/andrelaszlo/hbonordic_keyboard_shortcuts",
+  "developer": {
+    "name": "André Laszlo",
+    "url": "https://github.com/andrelaszlo/hbonordic_keyboard_shortcuts"
+  },
 
   "description": "Adds keyboard shortcuts for fullscreen, pausing, muting, volume controls and skipping to the hbonordic.com video player",
 
