@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "HBO Nordic Keyboard Shortcuts",
-  "version": "1.0",
+  "name": "HBO Europe Keyboard Shortcuts",
+  "version": "1.1",
   "author": "André Laszlo",
   "homepage_url": "https://github.com/andrelaszlo/hbonordic_keyboard_shortcuts",
   "developer": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/andrelaszlo/hbonordic_keyboard_shortcuts"
   },
 
-  "description": "Adds keyboard shortcuts for fullscreen, pausing, muting, volume controls and skipping to the hbonordic.com video player",
+  "description": "Adds keyboard shortcuts for fullscreen, pausing, muting, volume controls and skipping to the video player of the European HBO sites.",
 
   "icons": {
     "48": "icons/icon-48.png",
@@ -19,7 +19,23 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.hbonordic.com/*"],
+      "matches": [
+        "*://*.hbonordic.com/*",
+        "*://hbogo.hu/*",
+        "*://*.hboespana.com/*",
+        "*://hbogo.cz/*",
+        "*://hbogo.ro/*",
+        "*://hbogo.ro/*",
+        "*://hboportugal.com/*",
+        "*://hbogo.sk/*",
+        "*://hbogo.pl/*",
+        "*://hbogo.hr/*",
+        "*://hbogo.si/*",
+        "*://hbogo.me/*",
+        "*://*.hbo.rs/*",
+        "*://hbogo.mk/*",
+        "*://hbogo.ba/*"
+      ],
       "js": ["inject.js"]
     }
   ],
