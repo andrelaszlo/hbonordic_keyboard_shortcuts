@@ -23,6 +23,8 @@ Experimental support:
 
 Please report any bugs that you find. I only have access to HBO Nordic for testing.
 
+[![Buy Me A Coffee logo](https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif)](https://www.buymeacoffee.com/andrelaszlo)
+
 
 ## Install links
 
